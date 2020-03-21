@@ -2,8 +2,8 @@
 profile:
   first_name: Raymond
   last_name: Roberts
-  picture: https://cdn.glitch.com/45b39156-c675-4f70-b1d2-1e9d91b82a50%2Fbowtie-animate.gif?v=1584806026564  # Hosted picture
-  #picture: static/img/rodo.gif  # Local picture
+  #picture: https://cdn.glitch.com/45b39156-c675-4f70-b1d2-1e9d91b82a50%2Fbowtie-animate.gif?v=1584806026564  # Hosted picture
+  picture: static/img/profile-pic.png # Local picture
   contact:
     address_one: Wisconsin, USA
     address_two:
@@ -31,41 +31,43 @@ experience:
   item0:
     position: Staff Data Scientist
     company: General Electric
-    from: 2018
+    from: November 2018
     to: Present
     description: >
       Digital Services Technology Data Scientist focusing on industrial A.I applications and enterprise development operations in support of industrial A.I applications
     link: https://www.gehealthcare.com/
   item1:
-    position: Open Data Coordinator
-    company: LAB León / General Direction of Innovation León
-    from: July 2018
-    to: September 2019
+    position: Data Analyst
+    company: Contractor
+    from: Sept 2106
+    to: November 2018
     description: >
-      Pushing efforts to open (and work with) data in the city. Helping the city with trainings for digital jobs, including programming courses on Python and web development.
+      Filling company gaps for analytical gathering, organizing, leveraging, and exposing of data 
  
 
 # Education section
 education:
   item1:
-    institution: Artificial Intelligence CONACYT Consortium – CIMAT A.C.
-    program: Winter School on Artificial Intelligence
-    description: Attendee to workshops on optimization, deep learning and reinforcement learning. Event organized by the National Consortium on Science and Technology in Mexico.
-    from: February 2019
-    to: February 2019
+    institution: University of Wisconsin Oshkosh
+    program: Masters in Data Science
+    description: A Master of Science in Data Science is an interdisciplinary degree program designed to provide studies in scientific methods, processes, and systems to extract knowledge or insights from data in various forms, either structured or unstructured, similar to data mining 
+    from: September 2017
+    to: December 2020
   item2:
-    institution: University of Guanajuato / CIMAT A.C.
-    program: Bachelor of Mathematics
-    description: Major in Mathematics with Mathematical Computing as terminal area.
-    from: August 2011
-    to: July 2018
+    institution: University of Wisconsin Whitewater
+    program: Masters in Econometrics
+    description: Econometrics is a field of study focused on the application of statistical methods, computer science and mathematics in the area of economic data. This is a section in economics that is intended to providing the pragmatic content to relations in economics. In a professionally practical aspect, the field is meant to offer a precision to the analysis of exact economic situation based on the concurrent changes in the theory and observation. A Master in Econometrics is a postgraduate program meant to develop careers for professionals in the field of economic data analysis. The course is available in various universities across the world with vast professional training in effective analysis of data so as to get the best relationships in the data.
+
+Masters degree in Econometrics provides a balance and rigor as far training for macro-econometrics as well as micro-econometrics analysis. The course is designed to offer flexibility in learning and training for the professionals in the career line. The program is structured with flexible topics’ study so as to provide learners with an opportunity to specialize in what they love most. The course offers the best skills, techniques and expertise in every aspect so as to apply the relevant approaches to statistical methods while exploring the topics. Master in Econometrics is a program which exposes students to financial econometrics as well as time series analysis. Skills are applicable in business and government sectors in a range of sectors such as market research, finance, economics and credit risk management.
+    from: August 2016
+    to: July 2017
   item3:
-    institution: Harvard University
-    program: Summer Internship – Adapting machine learning techniques for chemistry problems.
-    description: Worked on a project to calibrate and predict molecular properties using Gaussian processes.
-    from: June 2017
-    to: August 2017
-  reference: https://rodolfoferro.xyz/resume/
+    institution: University of Wisconsin Parkside
+    program: Bachelors of Science in Business Management
+    description: The Bachelor of Science (BS) in Management Studies degree program is organized to provide a general overview of the operations of business and the business environment. Designed for working students, the Management Studies program is offered in the evening and may be completed on a full- or part-time basis.
+    from: June 2012
+    to: December 2015
+  reference: static/supp-doc/ResumeRaymond2019.pdf
 
 
 # Community section:
@@ -114,26 +116,27 @@ tools:
   # Consider that the following are fa icons:
   #   https://fontawesome.com/icons?d=gallery&s=brands
   - python
+  - r-project
+  - confluence
+  - aws
+  - docker
   - git-alt
   - github
-  - gitlab
-  - gitkraken
+  - ubuntu
   - raspberry-pi
-  - google
-  - google-drive
   - slack
   - trello
-  - markdown
   - html5
   - bootstrap
-extra_skills:
-  - Facebook Messenger, Telegram, and SMS bots
-  - Web scraping and web automation
-  - APIs and web development, MongoDB
-  - Image processing and computer vision
-  - Machine learning and deep learning
-  - Many Python packages – Flask, NumPy, matplotlib, Tensorflow, etc.
+  - medium-m
+  -microsoft
 
+extra_skills:
+  - AWS Cloud Solutions
+  - Web scraping and web automation
+  - Cassandra, Athena, Redis, MongoDB
+  - Network/Graph Theory
+ 
 
 # Talks and workshops section
 workshops:
@@ -142,64 +145,7 @@ workshops:
     workshop: AI in modern times, February 2020.
     material:
     link: https://www.ted.com/tedx/events/35293
-  item1:
-    event: PyCon Colombia 2020
-    workshop: 'Workshop – DLaaS: Building cloud-based intelligent solutions, February 2020.'
-    material: https://github.com/RodolfoFerro/PyConCo20
-    link: https://www.pycon.co/ponentes/rodolfo-ferro/
-  item2:
-    event: International Meeting on Artificial Intelligence and its Applications (RIIAA) 2.0.
-    workshop: Workshop – Deep Learning as a Service (DLaaS), August 2019.
-    material: https://github.com/RodolfoFerro/RIIAA19-DLaaS
-    link: https://riiaa.org
-  item3:
-    event: LAB León Web Dev Crash Course 2019.
-    workshop: Crash Course – Introduction to Web Development with Python and Flask, August 2019.
-    material: https://github.com/RodolfoFerro/Flask101
-    link: https://flask101.glitch.me
-  item4:
-    event: DevDay León 2019 by Hackademy.
-    workshop: Workshop – (AI) API development with Python, August 2019.
-    material: https://github.com/RodolfoFerro/PythonBaseAPI
-    link:
-  item5:
-    event: Clubes de Ciencia México 2019.
-    workshop: Workshop – Revealing the Hidden Hyperspectrum with Artificial Neurons, July 2019.
-    material: https://rodolfoferro.xyz/hyperspectrum/
-    link:
-  item6:
-    event: DevDay Mérida 2019.
-    workshop: Workshop – Artificial Intelligence with Python, July 2019.
-    material: https://github.com/RodolfoFerro/DevDayMid2019
-    link:
-  item7:
-    event: Talent Land 2019.
-    workshop: Talk – A.I. in modern times, April 2019.
-    material:
-    link: https://jaliscotalentland2019.sched.com/event/MzAs/inteligencia-artificial-en-tiempos-modernos
-  item8:
-    event: PythonDay México 2018.
-    workshop: Talk – Data Science with Python, December 2018.
-    material: https://github.com/RodolfoFerro/DataSciPy
-    link:
-  item9:
-    event: PythonDay México 2018.
-    workshop: Workshop – Machine Learning as a Service (MLaaS), November 2018.
-    material: https://github.com/RodolfoFerro/MLaaS
-    link:
-  item10:
-    event: HERE Hackathon at Technological University of Leon.
-    workshop: Mentor on the event. Talk – Integration of Technological Solutions, November 2018.
-    material: https://github.com/RodolfoFerro/HereHackathon
-    link:
-  item11:
-    event: 6th. International Conference in Software Engineering Research and Innovation (CONISOFT).
-    workshop: Workshop – Introduction to Neural Networks with Keras, October 2018.
-    material: https://github.com/RodolfoFerro/CONISOFT2018
-    link: http://conisoft.org/2018/public/
-  reference: https://rodolfoferro.xyz/resume/
-
-
+  
 # Projects section
 projects:
   item1:
@@ -210,83 +156,9 @@ projects:
     github: https://github.com/RodolfoFerro/flask-resume-template/
     img: flask-resume-template.png
     tags: [Flask, Python, Bootstrap]
-  item2:
-    title: DLaaS
-    subtitle: Google Colab Notebooks
-    description: A set of Google Colab notebooks and a Flask base API to learn and serve Deep Learning. Prepared for my workshop at RIIAA 2.0.
-    link: https://rodolfoferro.xyz/RIIAA19-DLaaS/
-    github: https://github.com/RodolfoFerro/RIIAA19-DLaaS
-    img: riiaa.png
-    tags: [Python, Tensorflow 2.0, Keras, Deep Learning]
-  item3:
-    title: impipes
-    subtitle: Python package
-    description: A Python package to build image pipelines in a simple way. Preprocess data to feed neural networks in an easier way.
-    link: https://impipes.readthedocs.io/en/latest/
-    github: https://github.com/RodolfoFerro/impipes
-    img: impipes.png
-    tags: [Python, PyPI, Images, Data Preprocessing, Documentation]
-  item4:
-    title: MNIST Web Classifier
-    subtitle: A CNN served as a web platform
-    description: Classify handwritten digits directly on your computer or your phone. As simple as taking a picture of a written random multi-digit number.
-    link: https://flask-micro-template.glitch.me
-    github: https://github.com/RodolfoFerro/flask-micro-template
-    img: keras-mnist.png
-    tags: [Python, Bootstrap, Web Platform, Flask, MNIST, CNN, Keras]
-  item5:
-    title: EmojiMerida
-    subtitle: Google Colab Notebook
-    description: A real-time coding session with an emotion recognizer on facial expressions for a Data Mérida meetup (01/04/2019). The Ai was developed with Python and Keras.
-    link: https://colab.research.google.com/github/RodolfoFerro/EmojiMerida/blob/master/Data_M%C3%A9rida.ipynb
-    github:
-    img: data-merida.png
-    tags: [Python, Computer Vision, Keras, Neural Networks]
-  item6:
-    title: PythonBaseAPI
-    subtitle: API template built with Flask
-    description: API template built with Python and Flask. Serve an Iris classifier as an API. Content for a workshop.
-    link: https://docs.google.com/presentation/d/e/2PACX-1vSc7Q82-lwQ8fKgR5WcT7Y0r9kotcYiNuyYjHRlF-fdhf6lkIrF9B_2akvzL-ZQ6ZAyT1lxM9f0mPdx/pub?start=false&loop=false&delayms=3000
-    github: https://github.com/RodolfoFerro/PythonBaseAPI
-    img: python-base-api.png
-    tags: [Flask, Python, API, scikit-learn]
-  item7:
-    title: flask-micro-template
-    subtitle: A micro template built with Flask
-    description: A micro template built with Flask and Bootstrap. Used for minimal testing in Glitch.
-    link: https://flask-micro-template.glitch.me
-    github: https://github.com/RodolfoFerro/flask-micro-template
-    img: flask-micro-template.png
-    tags: [Flask, Python, Bootstrap]
-  item8:
-    title: moltransform
-    subtitle: Python package
-    description: Molecular transformations for graphic displaying using Cartesian coordinates.
-    link: https://pypi.org/project/moltransform/
-    github: https://github.com/RodolfoFerro/moltransform
-    img: moltransform.png
-    tags: [Python, PyPI, Molecules, Rigid Transformations]
-  item9:
-    title: FitbitVersa-SimpleOmnitrix
-    subtitle: Fitbit Versa Clockface
-    description: My first clock face for Fitbit Versa, inspired in Ben 10's Omnitrix.
-    link: https://gallery.fitbit.com/details/6c75fa41-8de0-41db-b851-f21f7447018b
-    github: https://github.com/RodolfoFerro/FitbitVersa-SimpleOmnitrix
-    img: simple-omnitrix.png
-    tags: [TypeScript, Ben 10, Fitbit, Fitbit Versa]
-
+  
 
 # Certifications and awards section
 awards:
   - 'Winner – #TFWorld TF 2.0 Challenge – TensorFlow at Devpost 2020'
-  - Academy and Technology – Statal Youth Prize Guanajuato 2018
-  - Quantum Computing 101 – IBM Q Certification Badge 2018
-  - 1st. Place – HDI Challenge – Talent City Hackathon 2018
-  - 1st. Place – SWITCH Hackathon 2017
-  - 1st. Place – IBM Hackapalooza – Bluehack Hackathon 2017
-  - 1st. Place – 12th. Creativity and Innovation Contest at the University of Guanajuato 2017
-  - 1st. Place – Centro Fox National Hackathon 2017
-  - 1st. Place – 6th. Creativity and Innovation Contest, DCEA-UG 2016
-  - Silver Award – SynBio Giant Jamboree – iGEM  2016
-  - 1st. Place – 4th. Creativity and Innovation Contest, DCNE-UG 2016
-  - 1st. Place – Fintech – HackBajío Hackathon 2016
+  
