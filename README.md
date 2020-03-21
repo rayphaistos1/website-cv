@@ -1,3 +1,3 @@
-# Flask resume template 
+# Flask Resume 
 
-A simple Flask resume template based on <https://startbootstrap.com/themes/resume/>.
+A simple Flask resume template based on <https://startbootstrap.com/themes/resume/> for Raymond K Roberts
