@@ -56,9 +56,7 @@ education:
   item2:
     institution: University of Wisconsin Whitewater
     program: Masters in Econometrics
-    description: Econometrics is a field of study focused on the application of statistical methods, computer science and mathematics in the area of economic data. This is a section in economics that is intended to providing the pragmatic content to relations in economics. In a professionally practical aspect, the field is meant to offer a precision to the analysis of exact economic situation based on the concurrent changes in the theory and observation. A Master in Econometrics is a postgraduate program meant to develop careers for professionals in the field of economic data analysis. The course is available in various universities across the world with vast professional training in effective analysis of data so as to get the best relationships in the data.
-
-Masters degree in Econometrics provides a balance and rigor as far training for macro-econometrics as well as micro-econometrics analysis. The course is designed to offer flexibility in learning and training for the professionals in the career line. The program is structured with flexible topics’ study so as to provide learners with an opportunity to specialize in what they love most. The course offers the best skills, techniques and expertise in every aspect so as to apply the relevant approaches to statistical methods while exploring the topics. Master in Econometrics is a program which exposes students to financial econometrics as well as time series analysis. Skills are applicable in business and government sectors in a range of sectors such as market research, finance, economics and credit risk management.
+    description: Econometrics is a field of study focused on the application of statistical methods, computer science and mathematics in the area of economic data. This is a section in economics that is intended to providing the pragmatic content to relations in economics. In a professionally practical aspect, the field is meant to offer a precision to the analysis of exact economic situation based on the concurrent changes in the theory and observation. A Master in Econometrics is a postgraduate program meant to develop careers for professionals in the field of economic data analysis. The course is available in various universities across the world with vast professional training in effective analysis of data so as to get the best relationships in the data. Masters degree in Econometrics provides a balance and rigor as far training for macro-econometrics as well as micro-econometrics analysis. The course is designed to offer flexibility in learning and training for the professionals in the career line. The program is structured with flexible topics’ study so as to provide learners with an opportunity to specialize in what they love most. The course offers the best skills, techniques and expertise in every aspect so as to apply the relevant approaches to statistical methods while exploring the topics. Master in Econometrics is a program which exposes students to financial econometrics as well as time series analysis. Skills are applicable in business and government sectors in a range of sectors such as market research, finance, economics and credit risk management.
     from: August 2016
     to: July 2017
   item3:
@@ -107,7 +105,7 @@ community:
     from: August 2014
     to: July 2015
     link: https://www.meetup.com/es/GDGLeon/
-  reference: https://rodolfoferro.xyz/resume/
+  reference: static/supp-doc/ResumeRaymond2019.pdf
 
 
 
