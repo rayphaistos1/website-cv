@@ -127,7 +127,7 @@ tools:
   - html5
   - bootstrap
   - medium-m
-  -microsoft
+  - microsoft
 
 extra_skills:
   - AWS Cloud Solutions
